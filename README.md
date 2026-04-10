@@ -1,4 +1,5 @@
-Created by Emi Yee and Jennifer Ju @ University of California San Diego DiamondHacks Hackathon 2026
+Created by Emi Yee and Jennifer Ju 
+### Won the Best Duo Award @ University of California San Diego DiamondHacks Hackathon 2026
 
 # 🧠 FocusFlow
 
